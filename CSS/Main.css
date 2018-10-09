@@ -1,0 +1,86 @@
+h1{
+    text-align: center;
+    font-family: verdana;
+}
+
+#robocup p{
+    text-align: justify;
+    padding-top: 1.5%;
+}
+
+#robocup-img{
+    width: 100%;
+    max-height: 500px;
+}
+
+#robocup-video{
+    width:100%;
+    max-height: 300px;
+    height:100%;
+}
+
+#whorobotron img{
+    width:inherit;
+    margin-top:2%;
+}
+
+#whorobotron p{
+    text-align:justify;
+}
+
+
+footer{
+    position: fixed;
+    left: 0.9px;
+    bottom: 0.9px;
+    width: 100%;
+    background-color:#333;
+    color: white;
+    text-align: center;
+}
+.header-site{
+	background-image: url("../files/Images/rspace.png");
+	background-position: center top;
+	border-top: 2px solid #ed145b;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	color: #ffffff;
+	padding-top: 300px;
+	padding-bottom: 300px;
+}
+
+.header-site{
+	padding-top: 200px;
+	padding-bottom:200px;
+}
+
+
+.footer{
+	background-image: url("../Files/Images/rspace.png");
+	background-position: center top;
+	border-top: 2px solid #ed145b;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	color: #ffffff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.footer{
+	padding-top: 30px;
+	padding-bottom:30px;
+}
+
+#linha{
+  height: 5px;
+  width: 500px;
+  background-image: linear-gradient(-90deg, #ed145b, blue);
+  text-align:left;
+}
+h2{
+  font-family: verdana;
+  color: black;
+
+}

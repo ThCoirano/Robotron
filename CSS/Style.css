@@ -1,0 +1,63 @@
+body{
+    width:100%;
+    height: 100vh;
+    background-image:url("../Files/Images/BackgroundAuthentication.jpeg");
+    background-repeat:no-repeat, repeat;
+    background-size: cover;
+    background-color:red;
+    background-position: center center; 
+}
+
+#Form{
+    margin:5% auto;
+}
+
+.Form-Text{
+    font-family:arial;
+    font-size:1em;
+    color:black;
+}
+
+
+.Form-Text-Title{
+    font-size:1.5em;
+    text-transform:uppercase;
+    color: white;
+}
+
+.Clean-Margin-Top{
+    margin-top:5%;
+}
+
+.Input-Size{
+    width:6em;
+}
+
+.link-decoration{
+    text-decoration: none;
+    color:white;
+}
+
+.link-decoration:hover{
+    text-decoration: none;
+    color:white;
+}
+
+form>fieldset:last-of-type{
+    text-align: center;
+}
+
+form>fieldset:last-of-type input{
+    display:inline;
+}
+
+form>footer{
+    position:relative;
+    text-align:center;
+}
+
+form>footer>span:last-of-type{
+    position: absolute;
+    right:0;
+}
+
